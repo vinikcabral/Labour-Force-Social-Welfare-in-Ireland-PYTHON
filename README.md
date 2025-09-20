@@ -51,30 +51,3 @@ The analysis used three open datasets from the Central Statistics Office (CSO) a
 
 ## Autor
 [Vinicius Carrarini](https://www.linkedin.com/in/viniciuscarrarini/)
-
-The Analysis
-Labour Force Trends
-
-Between 1998 and 2023, employment in Ireland grew steadily, with only two major disruptions: the global financial crisis of 2008 and the COVID-19 pandemic. Both caused sharp spikes in unemployment, yet recovery followed in subsequent years. A regression model suggests that the labour force will continue to expand through 2026, although unemployment may rise slightly.
-
-
-Social Protection Schemes
-
-Child Benefit is consistently the largest program, followed by State Pension Contributory, reflecting the impact of an aging population. The Pandemic Unemployment Payment briefly became the second-largest program, highlighting the scale of the crisis response in 2020–21. Dublin stands out as the county with the highest number of recipients, far exceeding other regions.
-
-
-Jobseeker Programs
-
-Jobseeker’s Allowance is strongly correlated with unemployment trends, confirming its role as a key stabilizer in the labour market. Jobseeker’s Benefit, however, shows a weaker relationship, suggesting that it mainly supports short-term or transitional unemployment rather than long-term issues. Together, the two programs cover different needs and help maintain labour force stability.
-
-
-Expenditure and Unemployment
-
-Unemployment benefits spending is closely tied to unemployment levels, with peaks during the financial crisis and the pandemic. As the labour market recovered, expenditures fell accordingly. This responsiveness shows how social protection helps absorb shocks and prevent long-term damage to the economy.
-
-
-Conclusion
-
-The findings highlight the resilience of Ireland’s economy and the importance of social protection policies in managing economic shocks. Welfare schemes, particularly Jobseeker’s Allowance, have been effective in stabilizing unemployment, while rising pension numbers signal future demographic challenges. Regional disparities, with Dublin showing far greater demand, point to the need for tailored strategies in policy design.
-
-This project demonstrates how combining labour force and welfare data can provide actionable insights for policymakers, balancing growth with social well-being. It also illustrates the value of data-driven analysis in understanding how economic systems respond to crises and long-term structural change.
