@@ -17,9 +17,9 @@ The project focused on four main questions:
 
 The analysis used three open datasets from the Central Statistics Office (CSO) and the Department of Social Protection:
 
-- **The Labour Force Survey** - conducted by Central Statistical Office (CSO), Ireland. Provides insights into the labour market trends in Ireland. The dataset contains International Labour Classification (ILO) economic status by gender and by quarter since 1998 to 2024 from persons aged 15 years and over. It is freely available in the CSO website and open to use for analysis, research, and publication, providing proper attribution to the CSO as the source. https://data.cso.ie/table/QLF01
-- **The Welfare recipients by scheme and county dataset** - published by Department of Social Protection, Ireland. It includes the welfare number of recipients for each scheme, categorized by county and quarter, covering period from 2014 to 2024 (Q3). Licensed under Creative Commons Attribution 4.0, given the proper attribution. https://data.gov.ie/dataset/welfare-recipients-by-scheme-and-county
-- **The Social Benefits Protection Expenditure dataset** - conducted by Central Statistical Office (CSO), Ireland. Outlines the gross expenditure on social protection in Ireland, divided in eight categories - sickness/health care; disability; old age; survivors; family/children; unemployment; housing; and social exclusion, the time coverage is from 2000 to 2021. It is freely available in the CSO website and open to use for analysis, research, and publication, providing proper attribution to the CSO as the source. https://data.cso.ie/table/SPEA02
+- **Labour Force Survey (CSO, Ireland)**: Quarterly labour market data (ILO classification) from 1998–2024 for individuals aged 15+, including employment, unemployment, and participation rates. https://data.cso.ie/table/QLF01
+- **Welfare Recipients by Scheme and County (Department of Social Protection, Ireland)**: Quarterly counts of welfare recipients by scheme and county from 2014–2024 (Q3). https://data.gov.ie/dataset/welfare-recipients-by-scheme-and-county
+- **Social Protection Expenditure (CSO, Ireland)**: Annual gross expenditure by category (e.g., unemployment, pensions, disability) covering 2000–2021. https://data.cso.ie/table/SPEA02
 
 ## Tools
 - **Python**: Used throughout the project for data preparation, analysis, and visualization. Key libraries included:<br>
