@@ -51,25 +51,25 @@ The analysis used three open datasets from the Central Statistics Office (CSO) a
 8. Performed basic descriptive analysis (e.g., .describe(), groupby()) to understand distributions, variability, and key insights before deeper analysis.
 
 ## Analysis/Results
-1. Labour force trends (1998–2023)<br>
+**1. Labour force trends (1998–2023)**<br>
 Ireland’s labour market showed steady growth with clear dips during the 2008 crisis and COVID-19, followed by recovery. Projections suggest continued expansion but with a slight rise in unemployment and more people outside the labour force.
 <p align="left">
   <img src="./assets/img/01_fig1.png" alt="Labour Force Participation" width="800"/>
 </p>
 
-2. Social protection programs (2014–2024)<br>
+**2. Social protection programs (2014–2024)**<br>
 Child Benefit remains the largest programs, pensions are rising with an aging population, and pandemic supports caused a temporary spike. Dublin consistently shows the highest and most variable demand.
 <p align="left">
   <img src="./assets/img/02_fig2.png" alt="Social Protection Programs" width="800"/>
 </p>
 
-3. Jobseeker programs and unemployment<br>
+**3. Jobseeker programs and unemployment**<br>
 Jobseeker’s Allowance closely follows unemployment trends, acting as a key stabilizer, while Jobseeker’s Benefit plays a smaller, short-term support role. Together, they address different needs in the labour market.
 <p align="left">
   <img src="./assets/img/03_fig1.png" alt="Jobseeker programs and unemployment trend" width="780"/>
 </p>
 
-4. Expenditure and unemployment (2000–2022)
+**4. Expenditure and unemployment (2000–2022)** <br>
 Spending on unemployment benefits strongly tracks unemployment levels, rising during crises and falling during recovery, showing the role of social protection in stabilizing Ireland’s economy.
 <p align="left">
   <img src="./assets/img/04_fig2.png" alt="Unemployment expenditures and individuals correlation" width="750"/>
