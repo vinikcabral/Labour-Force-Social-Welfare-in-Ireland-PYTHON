@@ -50,7 +50,7 @@ The analysis used three open datasets from the Central Statistics Office (CSO) a
 7. Checked for data quality issues: missing values, duplicates and outliers.
 8. Performed basic descriptive analysis (e.g., .describe(), groupby()) to understand distributions, variability, and key insights before deeper analysis.
 
-## Analysis/Results
+## Key Insights
 **1. Labour force trends (1998–2023)**<br>
 Ireland’s labour market showed steady growth with clear dips during the 2008 crisis and COVID-19, followed by recovery. Projections suggest continued expansion but with a slight rise in unemployment and more people outside the labour force.
 <p align="left">
