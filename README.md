@@ -75,5 +75,5 @@ Spending on unemployment benefits strongly tracks unemployment levels, rising du
   <img src="./assets/img/04_fig2.png" alt="Unemployment expenditures and individuals correlation" width="750"/>
 </p>
 
-## Autor
+## Author
 [Vinicius Cabral](https://www.linkedin.com/in/vinikcabral/)
