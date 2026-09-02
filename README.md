@@ -76,4 +76,4 @@ Spending on unemployment benefits strongly tracks unemployment levels, rising du
 </p>
 
 ## Autor
-[Vinicius Carrarini](https://www.linkedin.com/in/viniciuscarrarini/)
+[Vinicius Cabral](https://www.linkedin.com/in/vinikcabral/)
