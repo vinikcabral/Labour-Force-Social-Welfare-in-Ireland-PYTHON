@@ -2,7 +2,7 @@
 <br>
 
 ## Project Overview
-This project explores how labour force participation and social protection interact to shape Ireland’s economic health. Using open data from the CSO and the Department of Social Protection, I applied Python for data cleaning, preparation, and visualization to uncover key patterns in employment, unemployment, and welfare policies.
+This project explores how labour force participation and social protection interact to shape Ireland’s economic health. Using open data from the CSO and the Department of Social Protection, using Python — applying regression analysis, statistical hypothesis testing (Shapiro-Wilk, Kendall's correlation), and time-series visualization to uncover how employment, unemployment, and welfare spending interact over time.
 
 **For a deeper analysis access the python code [here](https://github.com/vinikcabral/Labour-Force-Social-Welfare-in-Ireland-PYTHON/tree/main/code) and report [here](https://github.com/vinikcabral/Labour-Force-Social-Welfare-in-Ireland-PYTHON/blob/main/Report.pdf).**
 
