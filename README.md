@@ -32,7 +32,7 @@ Python 3.12, pandas, matplotlib, seaborn, scipy.
 
 ## Techniques
 
-- Descriptive statistics (`.describe()`, `groupby()`)
+- Descriptive statistics
 - Data cleaning & transformation (column filtering, type/scale adjustment, missing 
   values, duplicates, outlier checks)
 - Trend analysis via time-series visualization
