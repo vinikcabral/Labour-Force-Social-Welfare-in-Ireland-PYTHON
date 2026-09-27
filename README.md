@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 **3. Download the datasets:**
 This project uses three open datasets. Download each one from its source below, 
-and place all three files in the `datasets/` folder:
+and place all three files in the [datasets/](./datasets) folder:
 - [Labour Force Survey (CSO, Ireland)](https://data.cso.ie/table/QLF01)
 - [Welfare Recipients by Scheme and County (Department of Social Protection, Ireland)](https://data.gov.ie/dataset/welfare-recipients-by-scheme-and-county)
 - [Social Protection Expenditure (CSO, Ireland)](https://data.cso.ie/table/SPEA02)
