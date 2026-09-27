@@ -28,7 +28,7 @@ The project focused on four main questions:
 
 ## Tools
 
-Python, pandas, matplotlib, seaborn, scipy.
+Python 3.12, pandas, matplotlib, seaborn, scipy.
 
 ## Techniques
 
