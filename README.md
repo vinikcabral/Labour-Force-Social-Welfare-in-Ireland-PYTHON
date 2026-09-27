@@ -42,19 +42,30 @@ Python 3.12, pandas, matplotlib, seaborn, scipy.
 
 ## Getting Started
 
-**1. Clone the repo and install dependencies:**
+*The notebooks and report can be viewed directly on GitHub — the steps below 
+are only needed if you want to run the analysis yourself.*
+
+**1. Download the repository:**
+Click the green **Code** button at the top of this page, then select 
+**Download ZIP**. Extract the folder to your computer.
+
+**2. Install the dependencies:**
+Open a terminal in the extracted folder and run:
 ```bash
-git clone https://github.com/vinikcabral/Labour-Force-Social-Welfare-in-Ireland-PYTHON.git
-cd Labour-Force-Social-Welfare-in-Ireland-PYTHON
 pip install -r requirements.txt
 ```
+**Requirements:** Python 3.12
 
-**2. Download the raw datasets:**
-Download the three datasets listed above from their respective sources, and place 
-them in the `datasets/` folder.
+**3. Download the datasets:**
+This project uses three open datasets. Download each one from its source below, 
+and place all three files in the `datasets/` folder:
+- [Labour Force Survey (CSO, Ireland)](https://data.cso.ie/table/QLF01)
+- [Welfare Recipients by Scheme and County (Department of Social Protection, Ireland)](https://data.gov.ie/dataset/welfare-recipients-by-scheme-and-county)
+- [Social Protection Expenditure (CSO, Ireland)](https://data.cso.ie/table/SPEA02)
 
-**3. Run the code:**
-See [code/](./code/) for the analysis notebooks/scripts.
+**4. Run the notebooks:**
+Open the notebooks in [code/](https://github.com/vinikcabral/Labour-Force-Social-Welfare-in-Ireland-PYTHON/tree/main/code) 
+using Jupyter Notebook or JupyterLab, and run them in order.
 
 ## Key Insights
 
