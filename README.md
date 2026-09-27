@@ -64,7 +64,7 @@ and place all three files in the `datasets/` folder:
 - [Social Protection Expenditure (CSO, Ireland)](https://data.cso.ie/table/SPEA02)
 
 **4. Run the notebooks:**
-Open the notebooks in [code/](https://github.com/vinikcabral/Labour-Force-Social-Welfare-in-Ireland-PYTHON/tree/main/code) 
+Open the notebooks in `code/`
 using Jupyter Notebook or JupyterLab, and run them in order.
 
 ## Key Insights
