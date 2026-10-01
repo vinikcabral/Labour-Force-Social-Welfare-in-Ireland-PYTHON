@@ -1,0 +1,429 @@
+year,period,economic_status,individuals
+1998,1,In labour force,1699000.0
+1998,1,In employment,1550300.0
+1998,1,Unemployed,148700.0
+1998,1,Not in labour force,1158200.0
+1998,2,In labour force,1710700.0
+1998,2,In employment,1572000.0
+1998,2,Unemployed,138700.0
+1998,2,Not in labour force,1161700.0
+1998,3,In labour force,1766700.0
+1998,3,In employment,1636300.0
+1998,3,Unemployed,130400.0
+1998,3,Not in labour force,1121800.0
+1998,4,In labour force,1724600.0
+1998,4,In employment,1615700.0
+1998,4,Unemployed,108800.0
+1998,4,Not in labour force,1175900.0
+1999,1,In labour force,1753600.0
+1999,1,In employment,1644400.0
+1999,1,Unemployed,109200.0
+1999,1,Not in labour force,1152700.0
+1999,2,In labour force,1789800.0
+1999,2,In employment,1679200.0
+1999,2,Unemployed,110600.0
+1999,2,Not in labour force,1125200.0
+1999,3,In labour force,1849000.0
+1999,3,In employment,1746800.0
+1999,3,Unemployed,102200.0
+1999,3,Not in labour force,1081600.0
+1999,4,In labour force,1813900.0
+1999,4,In employment,1723100.0
+1999,4,Unemployed,90800.0
+1999,4,Not in labour force,1133500.0
+2000,1,In labour force,1813200.0
+2000,1,In employment,1726800.0
+2000,1,Unemployed,86400.0
+2000,1,Not in labour force,1141000.0
+2000,2,In labour force,1845800.0
+2000,2,In employment,1758200.0
+2000,2,Unemployed,87600.0
+2000,2,Not in labour force,1119100.0
+2000,3,In labour force,1900400.0
+2000,3,In employment,1818400.0
+2000,3,Unemployed,82000.0
+2000,3,Not in labour force,1081400.0
+2000,4,In labour force,1856300.0
+2000,4,In employment,1787600.0
+2000,4,Unemployed,68800.0
+2000,4,Not in labour force,1147800.0
+2001,1,In labour force,1853200.0
+2001,1,In employment,1780400.0
+2001,1,Unemployed,72900.0
+2001,1,Not in labour force,1158500.0
+2001,2,In labour force,1887500.0
+2001,2,In employment,1809700.0
+2001,2,Unemployed,77800.0
+2001,2,Not in labour force,1137200.0
+2001,3,In labour force,1954600.0
+2001,3,In employment,1866800.0
+2001,3,Unemployed,87800.0
+2001,3,Not in labour force,1089300.0
+2001,4,In labour force,1912800.0
+2001,4,In employment,1833100.0
+2001,4,Unemployed,79700.0
+2001,4,Not in labour force,1152000.0
+2002,1,In labour force,1910800.0
+2002,1,In employment,1825100.0
+2002,1,Unemployed,85700.0
+2002,1,Not in labour force,1167700.0
+2002,2,In labour force,1932100.0
+2002,2,In employment,1840300.0
+2002,2,Unemployed,91800.0
+2002,2,Not in labour force,1161800.0
+2002,3,In labour force,1974700.0
+2002,3,In employment,1883600.0
+2002,3,Unemployed,91200.0
+2002,3,Not in labour force,1134800.0
+2002,4,In labour force,1947600.0
+2002,4,In employment,1850300.0
+2002,4,Unemployed,97200.0
+2002,4,Not in labour force,1180100.0
+2003,1,In labour force,1948800.0
+2003,1,In employment,1855600.0
+2003,1,Unemployed,93200.0
+2003,1,Not in labour force,1190700.0
+2003,2,In labour force,1970700.0
+2003,2,In employment,1874000.0
+2003,2,Unemployed,96700.0
+2003,2,Not in labour force,1178900.0
+2003,3,In labour force,2016700.0
+2003,3,In employment,1912800.0
+2003,3,Unemployed,103900.0
+2003,3,Not in labour force,1149400.0
+2003,4,In labour force,1988700.0
+2003,4,In employment,1899400.0
+2003,4,Unemployed,89300.0
+2003,4,Not in labour force,1195600.0
+2004,1,In labour force,2004100.0
+2004,1,In employment,1902300.0
+2004,1,Unemployed,101800.0
+2004,1,Not in labour force,1190800.0
+2004,2,In labour force,2022800.0
+2004,2,In employment,1925800.0
+2004,2,Unemployed,97000.0
+2004,2,Not in labour force,1184400.0
+2004,3,In labour force,2080699.9999999998
+2004,3,In employment,1984100.0
+2004,3,Unemployed,96600.0
+2004,3,Not in labour force,1148200.0
+2004,4,In labour force,2064699.9999999998
+2004,4,In employment,1973800.0
+2004,4,Unemployed,90900.0
+2004,4,Not in labour force,1188900.0
+2005,1,In labour force,2080900.0
+2005,1,In employment,1989700.0
+2005,1,Unemployed,91200.0
+2005,1,Not in labour force,1189200.0
+2005,2,In labour force,2124300.0
+2005,2,In employment,2018000.0
+2005,2,Unemployed,106300.0
+2005,2,Not in labour force,1163600.0
+2005,3,In labour force,2179400.0
+2005,3,In employment,2073300.0000000002
+2005,3,Unemployed,106000.0
+2005,3,Not in labour force,1135200.0
+2005,4,In labour force,2162000.0
+2005,4,In employment,2070000.0
+2005,4,Unemployed,91900.0
+2005,4,Not in labour force,1180800.0
+2006,1,In labour force,2183800.0
+2006,1,In employment,2082300.0000000002
+2006,1,Unemployed,101500.0
+2006,1,Not in labour force,1179100.0
+2006,2,In labour force,2217600.0
+2006,2,In employment,2109000.0
+2006,2,Unemployed,108700.0
+2006,2,Not in labour force,1158500.0
+2006,3,In labour force,2275900.0
+2006,3,In employment,2159100.0
+2006,3,Unemployed,116800.0
+2006,3,Not in labour force,1138700.0
+2006,4,In labour force,2265200.0
+2006,4,In employment,2166800.0
+2006,4,Unemployed,98300.0
+2006,4,Not in labour force,1181200.0
+2007,1,In labour force,2296800.0
+2007,1,In employment,2185600.0
+2007,1,Unemployed,111200.0
+2007,1,Not in labour force,1176000.0
+2007,2,In labour force,2331900.0
+2007,2,In employment,2211800.0
+2007,2,Unemployed,120100.0
+2007,2,Not in labour force,1166300.0
+2007,3,In labour force,2370700.0
+2007,3,In employment,2251000.0
+2007,3,Unemployed,119700.0
+2007,3,Not in labour force,1149800.0
+2007,4,In labour force,2345400.0
+2007,4,In employment,2230700.0
+2007,4,Unemployed,114700.0
+2007,4,Not in labour force,1198300.0
+2008,1,In labour force,2342100.0
+2008,1,In employment,2217800.0
+2008,1,Unemployed,124400.0
+2008,1,Not in labour force,1219700.0
+2008,2,In labour force,2362300.0
+2008,2,In employment,2217800.0
+2008,2,Unemployed,144500.0
+2008,2,Not in labour force,1212700.0
+2008,3,In labour force,2390300.0
+2008,3,In employment,2209400.0
+2008,3,Unemployed,180900.0
+2008,3,Not in labour force,1192000.0
+2008,4,In labour force,2335000.0
+2008,4,In employment,2145600.0
+2008,4,Unemployed,189400.0
+2008,4,Not in labour force,1254100.0
+2009,1,In labour force,2302100.0
+2009,1,In employment,2054500.0
+2009,1,Unemployed,247600.0
+2009,1,Not in labour force,1291700.0
+2009,2,In labour force,2328000.0
+2009,2,In employment,2028600.0
+2009,2,Unemployed,299400.0
+2009,2,Not in labour force,1272200.0
+2009,3,In labour force,2321300.0
+2009,3,In employment,2006200.0
+2009,3,Unemployed,315100.0
+2009,3,Not in labour force,1277700.0
+2009,4,In labour force,2271500.0
+2009,4,In employment,1970600.0
+2009,4,Unemployed,300900.0
+2009,4,Not in labour force,1327900.0
+2010,1,In labour force,2240700.0
+2010,1,In employment,1934600.0
+2010,1,Unemployed,306200.0
+2010,1,Not in labour force,1358400.0
+2010,2,In labour force,2267500.0
+2010,2,In employment,1936500.0
+2010,2,Unemployed,331000.0
+2010,2,Not in labour force,1330700.0
+2010,3,In labour force,2267100.0
+2010,3,In employment,1930300.0
+2010,3,Unemployed,336800.0
+2010,3,Not in labour force,1331700.0
+2010,4,In labour force,2232300.0
+2010,4,In employment,1896600.0
+2010,4,Unemployed,335700.0
+2010,4,Not in labour force,1366800.0
+2011,1,In labour force,2209200.0
+2011,1,In employment,1878100.0
+2011,1,Unemployed,331100.0
+2011,1,Not in labour force,1389900.0
+2011,2,In labour force,2242200.0
+2011,2,In employment,1899600.0
+2011,2,Unemployed,342600.0
+2011,2,Not in labour force,1356900.0
+2011,3,In labour force,2241900.0
+2011,3,In employment,1885700.0
+2011,3,Unemployed,356200.0
+2011,3,Not in labour force,1358500.0
+2011,4,In labour force,2226500.0
+2011,4,In employment,1886400.0
+2011,4,Unemployed,340100.0
+2011,4,Not in labour force,1375900.0
+2012,1,In labour force,2210700.0
+2012,1,In employment,1862600.0
+2012,1,Unemployed,348100.0
+2012,1,Not in labour force,1392800.0
+2012,2,In labour force,2229000.0
+2012,2,In employment,1876800.0
+2012,2,Unemployed,352200.0
+2012,2,Not in labour force,1376700.0
+2012,3,In labour force,2242700.0
+2012,3,In employment,1888500.0
+2012,3,Unemployed,354300.0
+2012,3,Not in labour force,1367500.0
+2012,4,In labour force,2212300.0
+2012,4,In employment,1892900.0
+2012,4,Unemployed,319400.0
+2012,4,Not in labour force,1401500.0
+2013,1,In labour force,2210100.0
+2013,1,In employment,1893200.0
+2013,1,Unemployed,316900.0
+2013,1,Not in labour force,1406800.0
+2013,2,In labour force,2253700.0
+2013,2,In employment,1924200.0
+2013,2,Unemployed,329500.0
+2013,2,Not in labour force,1367100.0
+2013,3,In labour force,2271800.0
+2013,3,In employment,1962000.0
+2013,3,Unemployed,309800.0
+2013,3,Not in labour force,1356300.0
+2013,4,In labour force,2245800.0
+2013,4,In employment,1969600.0
+2013,4,Unemployed,276300.0
+2013,4,Not in labour force,1389300.0
+2014,1,In labour force,2232800.0
+2014,1,In employment,1950800.0
+2014,1,Unemployed,282000.0
+2014,1,Not in labour force,1408000.0
+2014,2,In labour force,2248300.0
+2014,2,In employment,1968900.0
+2014,2,Unemployed,279400.0
+2014,2,Not in labour force,1399600.0
+2014,3,In labour force,2281600.0
+2014,3,In employment,2009400.0
+2014,3,Unemployed,272200.0
+2014,3,Not in labour force,1376500.0
+2014,4,In labour force,2259900.0
+2014,4,In employment,2025000.0
+2014,4,Unemployed,234900.0
+2014,4,Not in labour force,1407900.0
+2015,1,In labour force,2246400.0
+2015,1,In employment,2012400.0
+2015,1,Unemployed,234000.0
+2015,1,Not in labour force,1429800.0
+2015,2,In labour force,2281800.0
+2015,2,In employment,2047700.0
+2015,2,Unemployed,234100.0
+2015,2,Not in labour force,1404300.0
+2015,3,In labour force,2304600.0
+2015,3,In employment,2078600.0
+2015,3,Unemployed,226000.0
+2015,3,Not in labour force,1395200.0
+2015,4,In labour force,2290400.0
+2015,4,In employment,2083900.0
+2015,4,Unemployed,206500.0
+2015,4,Not in labour force,1421500.0
+2016,1,In labour force,2278000.0
+2016,1,In employment,2079000.0
+2016,1,Unemployed,199000.0
+2016,1,Not in labour force,1443700.0
+2016,2,In labour force,2335700.0
+2016,2,In employment,2124400.0
+2016,2,Unemployed,211300.0
+2016,2,Not in labour force,1398400.0
+2016,3,In labour force,2360800.0
+2016,3,In employment,2159900.0
+2016,3,Unemployed,200800.0
+2016,3,Not in labour force,1392900.0
+2016,4,In labour force,2333100.0
+2016,4,In employment,2165500.0
+2016,4,Unemployed,167600.0
+2016,4,Not in labour force,1438500.0
+2017,1,In labour force,2326700.0
+2017,1,In employment,2162800.0
+2017,1,Unemployed,163900.0
+2017,1,Not in labour force,1460200.0
+2017,2,In labour force,2348200.0
+2017,2,In employment,2187400.0
+2017,2,Unemployed,160800.0
+2017,2,Not in labour force,1452300.0
+2017,3,In labour force,2376700.0
+2017,3,In employment,2212300.0
+2017,3,Unemployed,164400.0
+2017,3,Not in labour force,1438200.0
+2017,4,In labour force,2379700.0
+2017,4,In employment,2234700.0
+2017,4,Unemployed,145000.0
+2017,4,Not in labour force,1456400.0
+2018,1,In labour force,2359400.0
+2018,1,In employment,2225300.0
+2018,1,Unemployed,134100.0
+2018,1,Not in labour force,1484000.0
+2018,2,In labour force,2407500.0
+2018,2,In employment,2261700.0
+2018,2,Unemployed,145900.0
+2018,2,Not in labour force,1462900.0
+2018,3,In labour force,2427500.0
+2018,3,In employment,2282700.0
+2018,3,Unemployed,144800.0
+2018,3,Not in labour force,1458200.0
+2018,4,In labour force,2420900.0
+2018,4,In employment,2290400.0
+2018,4,Unemployed,130500.0
+2018,4,Not in labour force,1483900.0
+2019,1,In labour force,2428200.0
+2019,1,In employment,2312800.0
+2019,1,Unemployed,115400.0
+2019,1,Not in labour force,1496400.0
+2019,2,In labour force,2443700.0
+2019,2,In employment,2311500.0
+2019,2,Unemployed,132200.0
+2019,2,Not in labour force,1499200.0
+2019,3,In labour force,2471200.0
+2019,3,In employment,2341600.0
+2019,3,Unemployed,129600.0
+2019,3,Not in labour force,1489000.0
+2019,4,In labour force,2489400.0
+2019,4,In employment,2377800.0
+2019,4,Unemployed,111600.0
+2019,4,Not in labour force,1490600.0
+2020,1,In labour force,2484500.0
+2020,1,In employment,2368800.0
+2020,1,Unemployed,115700.0
+2020,1,Not in labour force,1512500.0
+2020,2,In labour force,2283900.0
+2020,2,In employment,2161300.0
+2020,2,Unemployed,122600.0
+2020,2,Not in labour force,1732400.0
+2020,3,In labour force,2456300.0
+2020,3,In employment,2275000.0
+2020,3,Unemployed,181400.0
+2020,3,Not in labour force,1573500.0
+2020,4,In labour force,2448500.0
+2020,4,In employment,2305100.0
+2020,4,Unemployed,143400.0
+2020,4,Not in labour force,1593300.0
+2021,1,In labour force,2432700.0
+2021,1,In employment,2259900.0
+2021,1,Unemployed,172800.0
+2021,1,Not in labour force,1623600.0
+2021,2,In labour force,2568600.0
+2021,2,In employment,2382200.0
+2021,2,Unemployed,186400.0
+2021,2,Not in labour force,1498500.0
+2021,3,In labour force,2666000.0
+2021,3,In employment,2515000.0
+2021,3,Unemployed,151000.0
+2021,3,Not in labour force,1428900.0
+2021,4,In labour force,2681500.0
+2021,4,In employment,2551400.0
+2021,4,Unemployed,130100.0
+2021,4,Not in labour force,1430800.0
+2022,1,In labour force,2687600.0
+2022,1,In employment,2559400.0
+2022,1,Unemployed,128100.0
+2022,1,Not in labour force,1454200.0
+2022,2,In labour force,2722300.0
+2022,2,In employment,2601200.0
+2022,2,Unemployed,121100.0
+2022,2,Not in labour force,1447300.0
+2022,3,In labour force,2723000.0
+2022,3,In employment,2602600.0
+2022,3,Unemployed,120500.0
+2022,3,Not in labour force,1478300.0
+2022,4,In labour force,2729400.0
+2022,4,In employment,2616700.0
+2022,4,Unemployed,112600.0
+2022,4,Not in labour force,1492800.0
+2023,1,In labour force,2764000.0
+2023,1,In employment,2652700.0
+2023,1,Unemployed,111300.0
+2023,1,Not in labour force,1488000.0
+2023,2,In labour force,2804900.0
+2023,2,In employment,2682700.0
+2023,2,Unemployed,122200.0
+2023,2,Not in labour force,1465100.0
+2023,3,In labour force,2826200.0
+2023,3,In employment,2696200.0
+2023,3,Unemployed,129900.0
+2023,3,Not in labour force,1464600.0
+2023,4,In labour force,2824100.0
+2023,4,In employment,2706400.0
+2023,4,Unemployed,117700.0
+2023,4,Not in labour force,1494500.0
+2024,1,In labour force,2819400.0
+2024,1,In employment,2704200.0
+2024,1,Unemployed,115200.0
+2024,1,Not in labour force,1516300.0
+2024,2,In labour force,2885400.0
+2024,2,In employment,2754200.0
+2024,2,Unemployed,131200.0
+2024,2,Not in labour force,1484600.0
+2024,3,In labour force,2924400.0
+2024,3,In employment,2794800.0
+2024,3,Unemployed,129500.0
+2024,3,Not in labour force,1465100.0
