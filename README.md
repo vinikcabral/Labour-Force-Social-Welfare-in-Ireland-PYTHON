@@ -62,7 +62,7 @@ folder. They are sourced from the CSO and the Department of Social Protection
 (see [Data Sources](#data-sources) above) and licensed under CC BY 4.0.
 
 **4. Run the notebooks:**
-Open the notebooks in `code/`
+Open the notebooks in `notebooks/`
 using Jupyter Notebook or JupyterLab, and run them in order.
 
 ## Key Insights
@@ -71,24 +71,24 @@ using Jupyter Notebook or JupyterLab, and run them in order.
   with clear dips during the 2008 crisis and COVID-19, followed by recovery. 
   Projections suggest continued expansion, but with a slight rise in unemployment 
   and more people outside the labour force.
-  <p align="left"><img src="./assets/img/01_fig1.png" alt="Labour Force Participation" width="800"/></p>
+  <p align="left"><img src="./assets/01_fig1.png" alt="Labour Force Participation" width="800"/></p>
 
 - **Social protection programs (2014-2024)** — Child Benefit remains the largest 
   program, pensions are rising with an aging population, and pandemic supports 
   caused a temporary spike. Dublin consistently shows the highest and most variable 
   demand.
-  <p align="left"><img src="./assets/img/02_fig2.png" alt="Social Protection Programs" width="800"/></p>
+  <p align="left"><img src="./assets/02_fig2.png" alt="Social Protection Programs" width="800"/></p>
 
 - **Jobseeker programs and unemployment** — Jobseeker's Allowance closely follows 
   unemployment trends, acting as a key stabilizer, while Jobseeker's Benefit plays a 
   smaller, short-term support role. Together, they address different needs in the 
   labour market.
-  <p align="left"><img src="./assets/img/03_fig1.png" alt="Jobseeker programs and unemployment trend" width="780"/></p>
+  <p align="left"><img src="./assets/03_fig1.png" alt="Jobseeker programs and unemployment trend" width="780"/></p>
 
 - **Expenditure and unemployment (2000-2022)** — Spending on unemployment benefits 
   strongly tracks unemployment levels, rising during crises and falling during 
   recovery, showing the role of social protection in stabilizing Ireland's economy.
-  <p align="left"><img src="./assets/img/04_fig2.png" alt="Unemployment expenditures and individuals correlation" width="750"/></p>
+  <p align="left"><img src="./assets/04_fig2.png" alt="Unemployment expenditures and individuals correlation" width="750"/></p>
 
 ## Full Report
 
