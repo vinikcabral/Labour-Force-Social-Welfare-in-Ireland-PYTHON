@@ -57,7 +57,7 @@ pip install -r requirements.txt
 **Requirements:** Python 3.12
 
 **3. Datasets:**
-The three datasets used in this project are included in the [`datasets/`](./datasets) 
+The three datasets used in this project are included in the `datasets/` 
 folder. They are sourced from the CSO and the Department of Social Protection 
 (see [Data Sources](#data-sources) above) and licensed under CC BY 4.0.
 
