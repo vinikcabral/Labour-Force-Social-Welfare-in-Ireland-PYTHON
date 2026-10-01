@@ -93,7 +93,7 @@ using Jupyter Notebook or JupyterLab, and run them in order.
 ## Full Report
 
 See [report.pdf](./report.pdf) for the complete methodology and results, or the 
-[code](./code) folder for the full analysis.
+[notebooks](./notebooks) folder for the full analysis.
 
 ## Author
 
